@@ -1,7 +1,9 @@
 {
-  "name": "Getting Started Example",
+  "manifest_version": 2,
+  "name": "Translator",
+  "description": "Learn to build an Extension!",
   "version": "1.0",
-  "description": "Build an Extension!",
+  
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
   "background": {
